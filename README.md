@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmutuku
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python/django projects
+- 👀 I’m interested in Cloud Engineer
+- 🌱 I’m currently learning AWS and Azure
+- 💞️ I’m looking to collaborate on IaC, Well-Architected Framework, Management and Governance
 - 📫 How to reach me mgmt.mtk@gmail.com
 
 <!---
